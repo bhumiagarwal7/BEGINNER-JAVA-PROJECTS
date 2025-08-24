@@ -1,4 +1,4 @@
-public class Number_Pattern3
+public class Floyds_Triangle
 {
     public static void main(String[] args)
     {
